@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Initially pursuing the field of counseling, I threw my passion for both people and problem-solving into frontend development. Having traveled to over 35+ different countries, I am skilled in collaboration, communication, and apaptability, able to approach each challenge I face from different--even new--perspectives. As I continue to add to and sharpen my tech stack daily, I am excited for this new era where we can skillfully utilize the power of AI such as CoPilot and Claude!
+Initially pursuing the field of counseling, I threw my passion for both people and problem-solving into frontend development. Having traveled to over 35+ different countries, I am skilled in collaboration, communication, and apaptability, able to approach each challenge I face from different angles. As I continue to add to and sharpen my tech stack daily, I am excited for this new era where we can skillfully utilize the power of AI such as CoPilot and Claude in development!
 
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [my portfolio website](http://next-portfolio-jed-delichs-projects.vercel.app/)
