@@ -9,6 +9,7 @@ Initially pursuing the field of counseling, I threw my passion for both people a
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [my portfolio website](https://jeddelich.com)
 * ✉️  You can contact me easily at [jeddelich@gmail.com](mailto:jeddelich@gmail.com)
+* ✅  Just finished building a clone of [a popular streaming platform](https://netflix.jeddelich.com/login) 
 * 🚀  I'm currently working on solving a problem with [a mental health app](https://github.com/jeddelich/anchor)
 * 🧠  Learning to write effective tests with Jest & React Testing Library
 
