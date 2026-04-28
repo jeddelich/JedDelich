@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Initially pursuing the field of counseling, I threw my passion for both people and problem-solving into software engineering. Having traveled to 35+ different countries, I bring more than just my technical skills; I am strongly proficient in collaboration, communication, user-empathy, and apaptability, able to approach each challenge I face from a different angle! Lately, I have been challenging myself to think less like a frontend developer and more like a full-stack engineer. I am also excited for this new era where we can carefully guide and utilize AI in development! Let's connect!
+Initially pursuing the field of counseling, I threw my passion for both people and problem-solving into software engineering. Having traveled to 35+ different countries, I bring more than just my technical skills; I am strongly proficient in collaboration, communication, user-empathy, and apaptability, able to approach each challenge I face from a different angle! Lately, I have been challenging myself to think less like a frontend developer and more like a full-stack engineer. I am also excited for this new era where we can carefully guide and utilize AI in development! Let's connect and see what we can build!
 
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [my portfolio website](https://jeddelich.com)
